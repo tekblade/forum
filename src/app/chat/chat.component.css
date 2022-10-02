@@ -1,0 +1,18 @@
+.window {
+    border-style: solid;
+    overflow: auto;
+    height: 450px;
+}
+.flex{
+    display:flex;
+    flex-direction: row;
+}
+.width1{
+    width: 85%;
+}
+.width2{
+    width: 15%;
+}
+.persistNewLine{
+    word-wrap: break-word;
+}
